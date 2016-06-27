@@ -1,0 +1,6 @@
+[submodule "vendor/jinzhu/gorm"]
+	path = vendor/jinzhu/gorm
+	url = http://github.com/jinzhu/gorm
+[submodule "vendor/jinzhu/inflection"]
+	path = vendor/jinzhu/inflection
+	url = http://github.com/jinzhu/inflection
